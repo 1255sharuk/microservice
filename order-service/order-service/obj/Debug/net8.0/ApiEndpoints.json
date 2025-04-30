@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "order_service.Controllers.OrdersController",
+    "Method": "GetPublicOrders",
+    "RelativePath": "api/Orders/public",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "order_service.Controllers.OrdersController",
+    "Method": "GetSecureOrders",
+    "RelativePath": "api/Orders/secure",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

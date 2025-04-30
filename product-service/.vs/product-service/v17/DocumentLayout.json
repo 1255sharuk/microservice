@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sharuk\\MicroservicesSolution\\product-service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C380869A-E917-4CAA-962C-5177E54CABAD}|product-service\\product-service.csproj|d:\\sharuk\\microservicessolution\\product-service\\product-service\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C380869A-E917-4CAA-962C-5177E54CABAD}|product-service\\product-service.csproj|solutionrelative:product-service\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C380869A-E917-4CAA-962C-5177E54CABAD}|product-service\\product-service.csproj|d:\\sharuk\\microservicessolution\\product-service\\product-service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C380869A-E917-4CAA-962C-5177E54CABAD}|product-service\\product-service.csproj|solutionrelative:product-service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C380869A-E917-4CAA-962C-5177E54CABAD}|product-service\\product-service.csproj|d:\\sharuk\\microservicessolution\\product-service\\product-service\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C380869A-E917-4CAA-962C-5177E54CABAD}|product-service\\product-service.csproj|solutionrelative:product-service\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C380869A-E917-4CAA-962C-5177E54CABAD}|product-service\\product-service.csproj|d:\\sharuk\\microservicessolution\\product-service\\product-service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C380869A-E917-4CAA-962C-5177E54CABAD}|product-service\\product-service.csproj|solutionrelative:product-service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\sharuk\\MicroservicesSolution\\product-service\\product-service\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "product-service\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\sharuk\\MicroservicesSolution\\product-service\\product-service\\Properties\\launchSettings.json",
+              "RelativeToolTip": "product-service\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T10:11:49.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\sharuk\\MicroservicesSolution\\product-service\\product-service\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "product-service\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\sharuk\\MicroservicesSolution\\product-service\\product-service\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "product-service\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T05:36:43.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\sharuk\\MicroservicesSolution\\product-service\\product-service\\appsettings.json",
+              "RelativeDocumentMoniker": "product-service\\appsettings.json",
+              "ToolTip": "D:\\sharuk\\MicroservicesSolution\\product-service\\product-service\\appsettings.json",
+              "RelativeToolTip": "product-service\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T05:36:12.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\sharuk\\MicroservicesSolution\\product-service\\product-service\\Program.cs",
+              "RelativeDocumentMoniker": "product-service\\Program.cs",
+              "ToolTip": "D:\\sharuk\\MicroservicesSolution\\product-service\\product-service\\Program.cs",
+              "RelativeToolTip": "product-service\\Program.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T05:06:25.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

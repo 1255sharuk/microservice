@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "product_service.Controllers.ProductsController",
+    "Method": "GetPublicProducts",
+    "RelativePath": "api/Products/public",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "product_service.Controllers.ProductsController",
+    "Method": "GetSecureProducts",
+    "RelativePath": "api/Products/secure",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
